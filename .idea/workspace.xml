@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c637b9e-e89a-4fdf-96ab-e011c5a53413" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SL0vAcTRN61FnKQb2nqCEG3yx0" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.java.Vehicle" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.java.ar.edu.unahur.obj2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestVehicle">
+    <configuration name="TestVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.vehicleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.vehicleTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.vehicleTest.TestVehicle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVehicle.testCarCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.vehicleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.vehicleTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.vehicleTest.TestVehicle" />
+      <option name="METHOD_NAME" value="testCarCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVehicle.testTruckCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.vehicleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.vehicleTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.vehicleTest.TestVehicle" />
+      <option name="METHOD_NAME" value="testTruckCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTestTest.testCarCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.VehicleTestTest" />
+      <option name="METHOD_NAME" value="testCarCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTestTest.testTruckCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.VehicleTestTest" />
+      <option name="METHOD_NAME" value="testTruckCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestVehicle" />
+        <item itemvalue="JUnit.TestVehicle.testCarCost" />
+        <item itemvalue="JUnit.TestVehicle.testTruckCost" />
+        <item itemvalue="JUnit.VehicleTestTest.testCarCost" />
+        <item itemvalue="JUnit.VehicleTestTest.testTruckCost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c637b9e-e89a-4fdf-96ab-e011c5a53413" name="Default Changelist" comment="" />
+      <created>1571327797210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571327797210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
