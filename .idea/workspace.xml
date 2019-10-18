@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c637b9e-e89a-4fdf-96ab-e011c5a53413" name="Default Changelist" comment="" />
+    <list default="true" id="6c637b9e-e89a-4fdf-96ab-e011c5a53413" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vehiculos/com/company/CostCalculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vehiculos/com/company/CostCalculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vehiculos/test/java/vehicleTest/TestVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vehiculos/test/java/vehicleTest/TestVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CostCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CostCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vehicleTest/TestVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vehicleTest/TestVehicle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +25,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SL0vAcTRN61FnKQb2nqCEG3yx0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -51,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestVehicle">
+  <component name="RunManager" selected="JUnit.TestVehicle.testSwitch">
     <configuration name="TestVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Vehiculos" />
       <extension name="coverage">
@@ -78,6 +90,22 @@
       <option name="PACKAGE_NAME" value="test.java.vehicleTest" />
       <option name="MAIN_CLASS_NAME" value="test.java.vehicleTest.TestVehicle" />
       <option name="METHOD_NAME" value="testCarCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVehicle.testSwitch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vehiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.vehicleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.vehicleTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.vehicleTest.TestVehicle" />
+      <option name="METHOD_NAME" value="testSwitch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,29 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTestTest.testTruckCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Vehiculos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.VehicleTestTest" />
-      <option name="METHOD_NAME" value="testTruckCost" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestVehicle.testSwitch" />
         <item itemvalue="JUnit.TestVehicle" />
         <item itemvalue="JUnit.TestVehicle.testCarCost" />
         <item itemvalue="JUnit.TestVehicle.testTruckCost" />
         <item itemvalue="JUnit.VehicleTestTest.testCarCost" />
-        <item itemvalue="JUnit.VehicleTestTest.testTruckCost" />
       </list>
     </recent_temporary>
   </component>
@@ -153,5 +165,16 @@
       <updated>1571327797210</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

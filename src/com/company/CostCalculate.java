@@ -1,12 +1,13 @@
 package com.company;
 
-import java.util.Random;
-
 public class CostCalculate {
+    int vehicle;
+
+    public CostCalculate(int vehicle) {
+        this.vehicle = vehicle;
+    }
 
     public int vehicleCost() {
-        Random r = new Random();
-        int vehicle = r.nextInt(2);
         int cost = 0;
         switch (vehicle) {
             case 0:
